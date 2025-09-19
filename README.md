@@ -42,7 +42,7 @@
 💡 An NLP-powered app that predicts emotions from text using **TF-IDF + Logistic Regression**.  
 👉 Built with **Python, scikit-learn, and Streamlit**.  
 
-### 🔹 [Heart Disease Prediction](https://github.com/Krish00711/HeartDiseasePrediction)  
+### 🔹 [Heart Disease Prediction](https://github.com/Krish00711/Heart-Disease-Prediction)  
 💡 Machine Learning pipeline to predict **heart disease risk factors**.  
 👉 Includes a **Streamlit interface** for user-friendly interaction.  
 
@@ -50,7 +50,7 @@
 💡 A simple yet stylish countdown timer with **pause/reset features**.  
 👉 Built using **HTML, CSS, JavaScript** with responsive design.  
 
-### 🔹 [ClariCom](https://github.com/Krish00711/ClariCom)  
+### 🔹 [ClariCom](https://github.com/Krish00711/Claricom-main)  
 💡 A project designed for **clear communication & productivity tools**.  
 👉 Focused on **usability and user experience**.  
 
